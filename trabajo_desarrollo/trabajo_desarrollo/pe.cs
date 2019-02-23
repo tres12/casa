@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace trabajo_desarrollo
 {
-    class persona
+    class pe
     {
     }
 }
