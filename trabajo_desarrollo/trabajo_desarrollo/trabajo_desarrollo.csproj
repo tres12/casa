@@ -55,6 +55,7 @@
     </Compile>
     <Compile Include="NEGOCIO.cs" />
     <Compile Include="pe.cs" />
+    <Compile Include="PERSONAS.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="pru1.cs" />
